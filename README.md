@@ -1,5 +1,4 @@
-# enose_lstm
-Improving the Detection of Explosives in a MOX Chemical Sensors Array with LSTM Networks
+# Improving the Detection of Explosives in a MOX Chemical Sensors Array with LSTM Networks
 
 Python implementation of the code used in the paper "Improving the Detection of Explosives in a MOX Chemical Sensors Array with LSTM Networks" [1], published in IEEE Sensors Journal.
 
